@@ -2,11 +2,6 @@
 
 This repository contains an AutoHotkey script that enhances your keyboard functionality by implementing Vim-like navigation and editing commands system-wide, along with additional useful shortcuts.
 
-The script provides the following features:
-
-1. Vim-like navigation and editing commands (toggled with CapsLock)
-2. Additional shortcuts: for backspace, delete, enter and newline for less finger movements
-
 This script is inspired by and adapted from:
 
 - The [Vim Mode Plus](https://ke-complex-modifications.pqrs.org/#vim_mode_plus_better_notifications) plugin for Mac, developed by [harmtemolder](https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus).
