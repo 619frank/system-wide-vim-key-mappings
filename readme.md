@@ -16,7 +16,7 @@ This script is inspired by and adapted from:
 
 1. Clone this repository or download the script file.
 2. Ensure AutoHotkey is installed on your system.
-3. Double-click the `.ahk` file to run it.
+3. Double-click the `system_wide_vim.ahk` file to run it.
 
 ## Usage
 
