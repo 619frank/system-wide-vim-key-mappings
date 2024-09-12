@@ -1,4 +1,4 @@
-# Vim-like AutoHotkey Script
+# AutoHotkey Script for system wide vim navigation
 
 This repository contains an AutoHotkey script that enhances your keyboard functionality by implementing Vim-like navigation and editing commands system-wide, along with additional useful shortcuts.
 
