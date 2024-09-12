@@ -69,6 +69,7 @@ These shortcuts are always active, regardless of Vim mode:
 3. `Left Ctrl + ;`: Backspace
 4. `Left Ctrl + Shift + ;`: Delete
 5. `Left Ctrl + '`: Enter
+6. `Shift + Caps Lock`: Esc
 
 ## Customization
 

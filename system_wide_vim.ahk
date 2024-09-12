@@ -159,3 +159,7 @@ ExitNormalMode(key) {
     vimMode := false
     ToolTip
 }
+
++CapsLock::
+Send, {Esc}
+return
