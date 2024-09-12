@@ -4,8 +4,8 @@ This repository contains an AutoHotkey script that enhances your keyboard functi
 
 This script is inspired by and adapted from:
 
-- The [Vim Mode Plus](https://ke-complex-modifications.pqrs.org/#vim_mode_plus_better_notifications) plugin for Mac, developed by [harmtemolder](https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus).
-- The [Shortcut (Delete and Enter)](https://ke-complex-modifications.pqrs.org/#shortcut_delete_and_enter) complex modifications for Karabiner-Elements.
+- The [Karabiner-Elements Vim Mode Plus](https://ke-complex-modifications.pqrs.org/#vim_mode_plus_better_notifications) plugin for Mac, developed by [harmtemolder](https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus).
+- The [Karabiner-Elements Shortcut (Delete and Enter)](https://ke-complex-modifications.pqrs.org/#shortcut_delete_and_enter) complex modifications for Karabiner-Elements.
 
 ## Requirements
 
