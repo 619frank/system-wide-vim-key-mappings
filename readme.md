@@ -39,6 +39,8 @@ Toggle Vim mode on/off with the CapsLock key. When in Vim mode, the following co
 12. `gg`: Top of file
 13. `G`: Bottom of file
 
+These 13 commands will support d(delete operator), c(change operator) and v (visual mode)
+
 #### Editing
 1. `x`: Delete character
 2. `X`: Backspace
