@@ -38,7 +38,7 @@ RShift::
 return
 
 ; Additional shortcuts (always active)
-<^+"::Send {Enter}
+<^+"::Send +{Enter}
 <^;::Send {Backspace}
 <^+;::Send {Delete}
 <^'::Send {Enter}
