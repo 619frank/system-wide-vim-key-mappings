@@ -29,17 +29,19 @@ Toggle Vim mode on/off with the CapsLock key. When in Vim mode, the following co
 2. `l`: Right
 3. `k`: Up
 4. `j`: Down
-5. `w`: Word forward (with punctuation)
-6. `W`: Word forward (without punctuation)
-7. `b`: Word backward (with punctuation)
-8. `B`: Word backward (without punctuation)
-9. `0`: Start of line
-10. `$`: End of line
-11. `^`: First non-blank character of line
-12. `gg`: Top of file
-13. `G`: Bottom of file
+5. `w`: Word forward
+6. `W`: Select Word forward 
+7. `e`: Word forward
+8. `E`: Select Word forward
+9. `b`: Word backward
+10. `B`: Select Word backward
+11. `0`: Start of line
+12. `$`: End of line
+13. `^`: First non-blank character of line
+14. `gg`: Top of file
+15. `G`: Bottom of file
 
-These 13 commands will support d(delete operator), c(change operator) and v (visual mode)
+These commands will support d(delete operator), c(change operator) and v (visual mode)
 
 #### Editing
 1. `x`: Delete character
